@@ -13,7 +13,7 @@ GEM
       metaclass (~> 0.0.1)
     net-http-persistent (3.0.0)
       connection_pool (~> 2.2)
-    rake (10.4.2)
+    rake (13.0.3)
 
 PLATFORMS
   ruby
@@ -23,7 +23,7 @@ DEPENDENCIES
   minitest (~> 5.0)
   mocha
   net-http-persistent
-  rake (~> 10.0)
+  rake (~> 13.0)
   sensors_analytics_sdk!
 
 BUNDLED WITH
